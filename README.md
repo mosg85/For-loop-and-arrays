@@ -15,7 +15,11 @@ Sample Input 1:
 3
 Sample Output 1:
 
+
+
 YES
+
+
 Sample Input 2:
 
 5
@@ -26,5 +30,7 @@ Sample Input 2:
 4
 7
 Sample Output 2:
+
+
 
 NO
